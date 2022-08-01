@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Quicksand:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+    /* background-color: rgb(79, 77, 77); */
+    font-weight: bold;
+}
+html{
+    font-size: 16px;
+}
+body{
+    margin: 0;
+    font-family: Quicksand, sans-serif;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+}
